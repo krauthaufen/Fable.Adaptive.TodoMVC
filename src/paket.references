@@ -1,0 +1,7 @@
+FSharp.Core
+Fable.Core
+FSharp.Data.Adaptive
+Adaptify.Core
+Adaptify.MSBuild
+Fable.React.Adaptive
+Fable.Elmish.Adaptive
